@@ -247,7 +247,7 @@ table{
     width: 300px;
 }
 @media(max-width:600px){
-    div{
+  body{
         display: flex;
         flex-direction: column ;
  max-width: fit-content;
